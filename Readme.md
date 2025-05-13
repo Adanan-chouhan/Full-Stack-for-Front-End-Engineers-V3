@@ -79,5 +79,5 @@
 ---
 [Orchestration-&-Load-Balancing](./Containers/3-Orchestration-&-Load-Balancing.md)
 ---
-<!-- [Adding-a-Load-Balancer](./Containers/4-Adding-a-Load-Balancer.md) -->
+[Adding-a-Load-Balancer](./Containers/4-Adding-a-Load-Balancer.md)
 ---
